@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Apr  4 16:49:49 2021
+# Process ID: 13736
+# Current directory: F:/ONLINE UNIVERSITY/EECS_433_Lab/Lab00/project_000/project_000.runs/impl_1
+# Command line: vivado.exe -log tutorial.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tutorial.tcl -notrace
+# Log file: F:/ONLINE UNIVERSITY/EECS_433_Lab/Lab00/project_000/project_000.runs/impl_1/tutorial.vdi
+# Journal file: F:/ONLINE UNIVERSITY/EECS_433_Lab/Lab00/project_000/project_000.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source tutorial.tcl -notrace
